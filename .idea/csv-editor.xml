@@ -31,6 +31,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Aug2026weekdays\emp_summary.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Aug2026weekdays\netflix_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
